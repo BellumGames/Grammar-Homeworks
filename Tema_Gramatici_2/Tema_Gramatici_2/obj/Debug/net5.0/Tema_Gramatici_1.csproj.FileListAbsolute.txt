@@ -1,0 +1,127 @@
+C:\BucurD\Faculta\Tema_Gramatici_1\Tema_Gramatici_1\bin\Debug\net5.0\Tema_Gramatici_1.exe
+C:\BucurD\Faculta\Tema_Gramatici_1\Tema_Gramatici_1\bin\Debug\net5.0\Tema_Gramatici_1.deps.json
+C:\BucurD\Faculta\Tema_Gramatici_1\Tema_Gramatici_1\bin\Debug\net5.0\Tema_Gramatici_1.runtimeconfig.json
+C:\BucurD\Faculta\Tema_Gramatici_1\Tema_Gramatici_1\bin\Debug\net5.0\Tema_Gramatici_1.runtimeconfig.dev.json
+C:\BucurD\Faculta\Tema_Gramatici_1\Tema_Gramatici_1\bin\Debug\net5.0\Tema_Gramatici_1.dll
+C:\BucurD\Faculta\Tema_Gramatici_1\Tema_Gramatici_1\bin\Debug\net5.0\ref\Tema_Gramatici_1.dll
+C:\BucurD\Faculta\Tema_Gramatici_1\Tema_Gramatici_1\bin\Debug\net5.0\Tema_Gramatici_1.pdb
+C:\BucurD\Faculta\Tema_Gramatici_1\Tema_Gramatici_1\obj\Debug\net5.0\Tema_Gramatici_1.csproj.AssemblyReference.cache
+C:\BucurD\Faculta\Tema_Gramatici_1\Tema_Gramatici_1\obj\Debug\net5.0\Tema_Gramatici_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\BucurD\Faculta\Tema_Gramatici_1\Tema_Gramatici_1\obj\Debug\net5.0\Tema_Gramatici_1.AssemblyInfoInputs.cache
+C:\BucurD\Faculta\Tema_Gramatici_1\Tema_Gramatici_1\obj\Debug\net5.0\Tema_Gramatici_1.AssemblyInfo.cs
+C:\BucurD\Faculta\Tema_Gramatici_1\Tema_Gramatici_1\obj\Debug\net5.0\Tema_Gramatici_1.csproj.CoreCompileInputs.cache
+C:\BucurD\Faculta\Tema_Gramatici_1\Tema_Gramatici_1\obj\Debug\net5.0\Tema_Gramatici_1.dll
+C:\BucurD\Faculta\Tema_Gramatici_1\Tema_Gramatici_1\obj\Debug\net5.0\ref\Tema_Gramatici_1.dll
+C:\BucurD\Faculta\Tema_Gramatici_1\Tema_Gramatici_1\obj\Debug\net5.0\Tema_Gramatici_1.pdb
+C:\BucurD\Faculta\Tema_Gramatici_1\Tema_Gramatici_1\obj\Debug\net5.0\Tema_Gramatici_1.genruntimeconfig.cache
+C:\Programs Programmed\Visual Studio\C#\Tema_Gramatici_1\Tema_Gramatici_1\bin\Debug\net5.0\Tema_Gramatici_1.exe
+C:\Programs Programmed\Visual Studio\C#\Tema_Gramatici_1\Tema_Gramatici_1\bin\Debug\net5.0\Tema_Gramatici_1.deps.json
+C:\Programs Programmed\Visual Studio\C#\Tema_Gramatici_1\Tema_Gramatici_1\bin\Debug\net5.0\Tema_Gramatici_1.runtimeconfig.json
+C:\Programs Programmed\Visual Studio\C#\Tema_Gramatici_1\Tema_Gramatici_1\bin\Debug\net5.0\Tema_Gramatici_1.runtimeconfig.dev.json
+C:\Programs Programmed\Visual Studio\C#\Tema_Gramatici_1\Tema_Gramatici_1\bin\Debug\net5.0\Tema_Gramatici_1.dll
+C:\Programs Programmed\Visual Studio\C#\Tema_Gramatici_1\Tema_Gramatici_1\bin\Debug\net5.0\ref\Tema_Gramatici_1.dll
+C:\Programs Programmed\Visual Studio\C#\Tema_Gramatici_1\Tema_Gramatici_1\bin\Debug\net5.0\Tema_Gramatici_1.pdb
+C:\Programs Programmed\Visual Studio\C#\Tema_Gramatici_1\Tema_Gramatici_1\obj\Debug\net5.0\Tema_Gramatici_1.csproj.AssemblyReference.cache
+C:\Programs Programmed\Visual Studio\C#\Tema_Gramatici_1\Tema_Gramatici_1\obj\Debug\net5.0\Tema_Gramatici_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programs Programmed\Visual Studio\C#\Tema_Gramatici_1\Tema_Gramatici_1\obj\Debug\net5.0\Tema_Gramatici_1.AssemblyInfoInputs.cache
+C:\Programs Programmed\Visual Studio\C#\Tema_Gramatici_1\Tema_Gramatici_1\obj\Debug\net5.0\Tema_Gramatici_1.AssemblyInfo.cs
+C:\Programs Programmed\Visual Studio\C#\Tema_Gramatici_1\Tema_Gramatici_1\obj\Debug\net5.0\Tema_Gramatici_1.csproj.CoreCompileInputs.cache
+C:\Programs Programmed\Visual Studio\C#\Tema_Gramatici_1\Tema_Gramatici_1\obj\Debug\net5.0\Tema_Gramatici_1.dll
+C:\Programs Programmed\Visual Studio\C#\Tema_Gramatici_1\Tema_Gramatici_1\obj\Debug\net5.0\ref\Tema_Gramatici_1.dll
+C:\Programs Programmed\Visual Studio\C#\Tema_Gramatici_1\Tema_Gramatici_1\obj\Debug\net5.0\Tema_Gramatici_1.pdb
+C:\Programs Programmed\Visual Studio\C#\Tema_Gramatici_1\Tema_Gramatici_1\obj\Debug\net5.0\Tema_Gramatici_1.genruntimeconfig.cache
+\\marquardt.de\shares\home\RO_SI\TogheR\Desktop\Tema_Gramatici_1\Tema_Gramatici_1\bin\Debug\net5.0\Tema_Gramatici_1.exe
+\\marquardt.de\shares\home\RO_SI\TogheR\Desktop\Tema_Gramatici_1\Tema_Gramatici_1\bin\Debug\net5.0\Tema_Gramatici_1.deps.json
+\\marquardt.de\shares\home\RO_SI\TogheR\Desktop\Tema_Gramatici_1\Tema_Gramatici_1\bin\Debug\net5.0\Tema_Gramatici_1.runtimeconfig.json
+\\marquardt.de\shares\home\RO_SI\TogheR\Desktop\Tema_Gramatici_1\Tema_Gramatici_1\bin\Debug\net5.0\Tema_Gramatici_1.runtimeconfig.dev.json
+\\marquardt.de\shares\home\RO_SI\TogheR\Desktop\Tema_Gramatici_1\Tema_Gramatici_1\bin\Debug\net5.0\Tema_Gramatici_1.dll
+\\marquardt.de\shares\home\RO_SI\TogheR\Desktop\Tema_Gramatici_1\Tema_Gramatici_1\bin\Debug\net5.0\ref\Tema_Gramatici_1.dll
+\\marquardt.de\shares\home\RO_SI\TogheR\Desktop\Tema_Gramatici_1\Tema_Gramatici_1\bin\Debug\net5.0\Tema_Gramatici_1.pdb
+\\marquardt.de\shares\home\RO_SI\TogheR\Desktop\Tema_Gramatici_1\Tema_Gramatici_1\obj\Debug\net5.0\Tema_Gramatici_1.csproj.AssemblyReference.cache
+\\marquardt.de\shares\home\RO_SI\TogheR\Desktop\Tema_Gramatici_1\Tema_Gramatici_1\obj\Debug\net5.0\Tema_Gramatici_1.GeneratedMSBuildEditorConfig.editorconfig
+\\marquardt.de\shares\home\RO_SI\TogheR\Desktop\Tema_Gramatici_1\Tema_Gramatici_1\obj\Debug\net5.0\Tema_Gramatici_1.AssemblyInfoInputs.cache
+\\marquardt.de\shares\home\RO_SI\TogheR\Desktop\Tema_Gramatici_1\Tema_Gramatici_1\obj\Debug\net5.0\Tema_Gramatici_1.AssemblyInfo.cs
+\\marquardt.de\shares\home\RO_SI\TogheR\Desktop\Tema_Gramatici_1\Tema_Gramatici_1\obj\Debug\net5.0\Tema_Gramatici_1.csproj.CoreCompileInputs.cache
+\\marquardt.de\shares\home\RO_SI\TogheR\Desktop\Tema_Gramatici_1\Tema_Gramatici_1\obj\Debug\net5.0\Tema_Gramatici_1.dll
+\\marquardt.de\shares\home\RO_SI\TogheR\Desktop\Tema_Gramatici_1\Tema_Gramatici_1\obj\Debug\net5.0\ref\Tema_Gramatici_1.dll
+\\marquardt.de\shares\home\RO_SI\TogheR\Desktop\Tema_Gramatici_1\Tema_Gramatici_1\obj\Debug\net5.0\Tema_Gramatici_1.pdb
+\\marquardt.de\shares\home\RO_SI\TogheR\Desktop\Tema_Gramatici_1\Tema_Gramatici_1\obj\Debug\net5.0\Tema_Gramatici_1.genruntimeconfig.cache
+\\marquardt.de\shares\home\RO_SI\BucurD\Desktop\Tema_Gramatici_1\Tema_Gramatici_1\bin\Debug\net5.0\Tema_Gramatici_1.exe
+\\marquardt.de\shares\home\RO_SI\BucurD\Desktop\Tema_Gramatici_1\Tema_Gramatici_1\bin\Debug\net5.0\Tema_Gramatici_1.deps.json
+\\marquardt.de\shares\home\RO_SI\BucurD\Desktop\Tema_Gramatici_1\Tema_Gramatici_1\bin\Debug\net5.0\Tema_Gramatici_1.runtimeconfig.json
+\\marquardt.de\shares\home\RO_SI\BucurD\Desktop\Tema_Gramatici_1\Tema_Gramatici_1\bin\Debug\net5.0\Tema_Gramatici_1.runtimeconfig.dev.json
+\\marquardt.de\shares\home\RO_SI\BucurD\Desktop\Tema_Gramatici_1\Tema_Gramatici_1\bin\Debug\net5.0\Tema_Gramatici_1.dll
+\\marquardt.de\shares\home\RO_SI\BucurD\Desktop\Tema_Gramatici_1\Tema_Gramatici_1\bin\Debug\net5.0\ref\Tema_Gramatici_1.dll
+\\marquardt.de\shares\home\RO_SI\BucurD\Desktop\Tema_Gramatici_1\Tema_Gramatici_1\bin\Debug\net5.0\Tema_Gramatici_1.pdb
+\\marquardt.de\shares\home\RO_SI\BucurD\Desktop\Tema_Gramatici_1\Tema_Gramatici_1\obj\Debug\net5.0\Tema_Gramatici_1.GeneratedMSBuildEditorConfig.editorconfig
+\\marquardt.de\shares\home\RO_SI\BucurD\Desktop\Tema_Gramatici_1\Tema_Gramatici_1\obj\Debug\net5.0\Tema_Gramatici_1.AssemblyInfoInputs.cache
+\\marquardt.de\shares\home\RO_SI\BucurD\Desktop\Tema_Gramatici_1\Tema_Gramatici_1\obj\Debug\net5.0\Tema_Gramatici_1.AssemblyInfo.cs
+\\marquardt.de\shares\home\RO_SI\BucurD\Desktop\Tema_Gramatici_1\Tema_Gramatici_1\obj\Debug\net5.0\Tema_Gramatici_1.csproj.CoreCompileInputs.cache
+\\marquardt.de\shares\home\RO_SI\BucurD\Desktop\Tema_Gramatici_1\Tema_Gramatici_1\obj\Debug\net5.0\Tema_Gramatici_1.dll
+\\marquardt.de\shares\home\RO_SI\BucurD\Desktop\Tema_Gramatici_1\Tema_Gramatici_1\obj\Debug\net5.0\ref\Tema_Gramatici_1.dll
+\\marquardt.de\shares\home\RO_SI\BucurD\Desktop\Tema_Gramatici_1\Tema_Gramatici_1\obj\Debug\net5.0\Tema_Gramatici_1.pdb
+\\marquardt.de\shares\home\RO_SI\BucurD\Desktop\Tema_Gramatici_1\Tema_Gramatici_1\obj\Debug\net5.0\Tema_Gramatici_1.genruntimeconfig.cache
+C:\Users\bucur\Desktop\Tema_Gramatici_1 (1)\Tema_Gramatici_1\Tema_Gramatici_1\bin\Debug\net5.0\Tema_Gramatici_1.exe
+C:\Users\bucur\Desktop\Tema_Gramatici_1 (1)\Tema_Gramatici_1\Tema_Gramatici_1\bin\Debug\net5.0\Tema_Gramatici_1.deps.json
+C:\Users\bucur\Desktop\Tema_Gramatici_1 (1)\Tema_Gramatici_1\Tema_Gramatici_1\bin\Debug\net5.0\Tema_Gramatici_1.runtimeconfig.json
+C:\Users\bucur\Desktop\Tema_Gramatici_1 (1)\Tema_Gramatici_1\Tema_Gramatici_1\bin\Debug\net5.0\Tema_Gramatici_1.runtimeconfig.dev.json
+C:\Users\bucur\Desktop\Tema_Gramatici_1 (1)\Tema_Gramatici_1\Tema_Gramatici_1\bin\Debug\net5.0\Tema_Gramatici_1.dll
+C:\Users\bucur\Desktop\Tema_Gramatici_1 (1)\Tema_Gramatici_1\Tema_Gramatici_1\bin\Debug\net5.0\ref\Tema_Gramatici_1.dll
+C:\Users\bucur\Desktop\Tema_Gramatici_1 (1)\Tema_Gramatici_1\Tema_Gramatici_1\bin\Debug\net5.0\Tema_Gramatici_1.pdb
+C:\Users\bucur\Desktop\Tema_Gramatici_1 (1)\Tema_Gramatici_1\Tema_Gramatici_1\obj\Debug\net5.0\Tema_Gramatici_1.csproj.AssemblyReference.cache
+C:\Users\bucur\Desktop\Tema_Gramatici_1 (1)\Tema_Gramatici_1\Tema_Gramatici_1\obj\Debug\net5.0\Tema_Gramatici_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bucur\Desktop\Tema_Gramatici_1 (1)\Tema_Gramatici_1\Tema_Gramatici_1\obj\Debug\net5.0\Tema_Gramatici_1.AssemblyInfoInputs.cache
+C:\Users\bucur\Desktop\Tema_Gramatici_1 (1)\Tema_Gramatici_1\Tema_Gramatici_1\obj\Debug\net5.0\Tema_Gramatici_1.AssemblyInfo.cs
+C:\Users\bucur\Desktop\Tema_Gramatici_1 (1)\Tema_Gramatici_1\Tema_Gramatici_1\obj\Debug\net5.0\Tema_Gramatici_1.csproj.CoreCompileInputs.cache
+C:\Users\bucur\Desktop\Tema_Gramatici_1 (1)\Tema_Gramatici_1\Tema_Gramatici_1\obj\Debug\net5.0\Tema_Gramatici_1.dll
+C:\Users\bucur\Desktop\Tema_Gramatici_1 (1)\Tema_Gramatici_1\Tema_Gramatici_1\obj\Debug\net5.0\ref\Tema_Gramatici_1.dll
+C:\Users\bucur\Desktop\Tema_Gramatici_1 (1)\Tema_Gramatici_1\Tema_Gramatici_1\obj\Debug\net5.0\Tema_Gramatici_1.pdb
+C:\Users\bucur\Desktop\Tema_Gramatici_1 (1)\Tema_Gramatici_1\Tema_Gramatici_1\obj\Debug\net5.0\Tema_Gramatici_1.genruntimeconfig.cache
+C:\Users\bucur\Desktop\Tema_Gramatici_1\Tema_Gramatici_1\Tema_Gramatici_1\bin\Debug\net5.0\Tema_Gramatici_1.exe
+C:\Users\bucur\Desktop\Tema_Gramatici_1\Tema_Gramatici_1\Tema_Gramatici_1\bin\Debug\net5.0\Tema_Gramatici_1.deps.json
+C:\Users\bucur\Desktop\Tema_Gramatici_1\Tema_Gramatici_1\Tema_Gramatici_1\bin\Debug\net5.0\Tema_Gramatici_1.runtimeconfig.json
+C:\Users\bucur\Desktop\Tema_Gramatici_1\Tema_Gramatici_1\Tema_Gramatici_1\bin\Debug\net5.0\Tema_Gramatici_1.runtimeconfig.dev.json
+C:\Users\bucur\Desktop\Tema_Gramatici_1\Tema_Gramatici_1\Tema_Gramatici_1\bin\Debug\net5.0\Tema_Gramatici_1.dll
+C:\Users\bucur\Desktop\Tema_Gramatici_1\Tema_Gramatici_1\Tema_Gramatici_1\bin\Debug\net5.0\ref\Tema_Gramatici_1.dll
+C:\Users\bucur\Desktop\Tema_Gramatici_1\Tema_Gramatici_1\Tema_Gramatici_1\bin\Debug\net5.0\Tema_Gramatici_1.pdb
+C:\Users\bucur\Desktop\Tema_Gramatici_1\Tema_Gramatici_1\Tema_Gramatici_1\obj\Debug\net5.0\Tema_Gramatici_1.csproj.AssemblyReference.cache
+C:\Users\bucur\Desktop\Tema_Gramatici_1\Tema_Gramatici_1\Tema_Gramatici_1\obj\Debug\net5.0\Tema_Gramatici_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bucur\Desktop\Tema_Gramatici_1\Tema_Gramatici_1\Tema_Gramatici_1\obj\Debug\net5.0\Tema_Gramatici_1.AssemblyInfoInputs.cache
+C:\Users\bucur\Desktop\Tema_Gramatici_1\Tema_Gramatici_1\Tema_Gramatici_1\obj\Debug\net5.0\Tema_Gramatici_1.AssemblyInfo.cs
+C:\Users\bucur\Desktop\Tema_Gramatici_1\Tema_Gramatici_1\Tema_Gramatici_1\obj\Debug\net5.0\Tema_Gramatici_1.csproj.CoreCompileInputs.cache
+C:\Users\bucur\Desktop\Tema_Gramatici_1\Tema_Gramatici_1\Tema_Gramatici_1\obj\Debug\net5.0\Tema_Gramatici_1.dll
+C:\Users\bucur\Desktop\Tema_Gramatici_1\Tema_Gramatici_1\Tema_Gramatici_1\obj\Debug\net5.0\ref\Tema_Gramatici_1.dll
+C:\Users\bucur\Desktop\Tema_Gramatici_1\Tema_Gramatici_1\Tema_Gramatici_1\obj\Debug\net5.0\Tema_Gramatici_1.pdb
+C:\Users\bucur\Desktop\Tema_Gramatici_1\Tema_Gramatici_1\Tema_Gramatici_1\obj\Debug\net5.0\Tema_Gramatici_1.genruntimeconfig.cache
+C:\Programs Programmed\Visual Studio\C#\Tema_Gramatici_2\Tema_Gramatici_1\bin\Debug\net5.0\Tema_Gramatici_1.exe
+C:\Programs Programmed\Visual Studio\C#\Tema_Gramatici_2\Tema_Gramatici_1\bin\Debug\net5.0\Tema_Gramatici_1.deps.json
+C:\Programs Programmed\Visual Studio\C#\Tema_Gramatici_2\Tema_Gramatici_1\bin\Debug\net5.0\Tema_Gramatici_1.runtimeconfig.json
+C:\Programs Programmed\Visual Studio\C#\Tema_Gramatici_2\Tema_Gramatici_1\bin\Debug\net5.0\Tema_Gramatici_1.runtimeconfig.dev.json
+C:\Programs Programmed\Visual Studio\C#\Tema_Gramatici_2\Tema_Gramatici_1\bin\Debug\net5.0\Tema_Gramatici_1.dll
+C:\Programs Programmed\Visual Studio\C#\Tema_Gramatici_2\Tema_Gramatici_1\bin\Debug\net5.0\ref\Tema_Gramatici_1.dll
+C:\Programs Programmed\Visual Studio\C#\Tema_Gramatici_2\Tema_Gramatici_1\bin\Debug\net5.0\Tema_Gramatici_1.pdb
+C:\Programs Programmed\Visual Studio\C#\Tema_Gramatici_2\Tema_Gramatici_1\obj\Debug\net5.0\Tema_Gramatici_1.csproj.AssemblyReference.cache
+C:\Programs Programmed\Visual Studio\C#\Tema_Gramatici_2\Tema_Gramatici_1\obj\Debug\net5.0\Tema_Gramatici_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programs Programmed\Visual Studio\C#\Tema_Gramatici_2\Tema_Gramatici_1\obj\Debug\net5.0\Tema_Gramatici_1.AssemblyInfoInputs.cache
+C:\Programs Programmed\Visual Studio\C#\Tema_Gramatici_2\Tema_Gramatici_1\obj\Debug\net5.0\Tema_Gramatici_1.AssemblyInfo.cs
+C:\Programs Programmed\Visual Studio\C#\Tema_Gramatici_2\Tema_Gramatici_1\obj\Debug\net5.0\Tema_Gramatici_1.csproj.CoreCompileInputs.cache
+C:\Programs Programmed\Visual Studio\C#\Tema_Gramatici_2\Tema_Gramatici_1\obj\Debug\net5.0\Tema_Gramatici_1.dll
+C:\Programs Programmed\Visual Studio\C#\Tema_Gramatici_2\Tema_Gramatici_1\obj\Debug\net5.0\ref\Tema_Gramatici_1.dll
+C:\Programs Programmed\Visual Studio\C#\Tema_Gramatici_2\Tema_Gramatici_1\obj\Debug\net5.0\Tema_Gramatici_1.pdb
+C:\Programs Programmed\Visual Studio\C#\Tema_Gramatici_2\Tema_Gramatici_1\obj\Debug\net5.0\Tema_Gramatici_1.genruntimeconfig.cache
+C:\BucurD\Faculta\Tema_Gramatici_2\Tema_Gramatici_1\bin\Debug\net5.0\Tema_Gramatici_1.exe
+C:\BucurD\Faculta\Tema_Gramatici_2\Tema_Gramatici_1\bin\Debug\net5.0\Tema_Gramatici_1.deps.json
+C:\BucurD\Faculta\Tema_Gramatici_2\Tema_Gramatici_1\bin\Debug\net5.0\Tema_Gramatici_1.runtimeconfig.json
+C:\BucurD\Faculta\Tema_Gramatici_2\Tema_Gramatici_1\bin\Debug\net5.0\Tema_Gramatici_1.runtimeconfig.dev.json
+C:\BucurD\Faculta\Tema_Gramatici_2\Tema_Gramatici_1\bin\Debug\net5.0\Tema_Gramatici_1.dll
+C:\BucurD\Faculta\Tema_Gramatici_2\Tema_Gramatici_1\bin\Debug\net5.0\ref\Tema_Gramatici_1.dll
+C:\BucurD\Faculta\Tema_Gramatici_2\Tema_Gramatici_1\bin\Debug\net5.0\Tema_Gramatici_1.pdb
+C:\BucurD\Faculta\Tema_Gramatici_2\Tema_Gramatici_1\obj\Debug\net5.0\Tema_Gramatici_1.csproj.AssemblyReference.cache
+C:\BucurD\Faculta\Tema_Gramatici_2\Tema_Gramatici_1\obj\Debug\net5.0\Tema_Gramatici_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\BucurD\Faculta\Tema_Gramatici_2\Tema_Gramatici_1\obj\Debug\net5.0\Tema_Gramatici_1.AssemblyInfoInputs.cache
+C:\BucurD\Faculta\Tema_Gramatici_2\Tema_Gramatici_1\obj\Debug\net5.0\Tema_Gramatici_1.AssemblyInfo.cs
+C:\BucurD\Faculta\Tema_Gramatici_2\Tema_Gramatici_1\obj\Debug\net5.0\Tema_Gramatici_1.csproj.CoreCompileInputs.cache
+C:\BucurD\Faculta\Tema_Gramatici_2\Tema_Gramatici_1\obj\Debug\net5.0\Tema_Gramatici_1.dll
+C:\BucurD\Faculta\Tema_Gramatici_2\Tema_Gramatici_1\obj\Debug\net5.0\ref\Tema_Gramatici_1.dll
+C:\BucurD\Faculta\Tema_Gramatici_2\Tema_Gramatici_1\obj\Debug\net5.0\Tema_Gramatici_1.pdb
+C:\BucurD\Faculta\Tema_Gramatici_2\Tema_Gramatici_1\obj\Debug\net5.0\Tema_Gramatici_1.genruntimeconfig.cache

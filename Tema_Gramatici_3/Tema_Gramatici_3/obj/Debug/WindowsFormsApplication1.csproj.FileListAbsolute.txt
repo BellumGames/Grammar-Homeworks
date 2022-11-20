@@ -1,0 +1,18 @@
+D:\Facultate\Anul 3\Semestrul 1\Limbaje Formale si Automate\VisualStudio\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\Facultate\Anul 3\Semestrul 1\Limbaje Formale si Automate\VisualStudio\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\Facultate\Anul 3\Semestrul 1\Limbaje Formale si Automate\VisualStudio\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\Facultate\Anul 3\Semestrul 1\Limbaje Formale si Automate\VisualStudio\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Facultate\Anul 3\Semestrul 1\Limbaje Formale si Automate\VisualStudio\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\Facultate\Anul 3\Semestrul 1\Limbaje Formale si Automate\VisualStudio\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\Facultate\Anul 3\Semestrul 1\Limbaje Formale si Automate\VisualStudio\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\Facultate\Anul 3\Semestrul 1\Limbaje Formale si Automate\VisualStudio\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\Facultate\Anul 3\Semestrul 1\Limbaje Formale si Automate\VisualStudio\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\Facultate\Anul 3\Semestrul 1\Limbaje Formale si Automate\VisualStudio\Automat Push Down\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\Facultate\Anul 3\Semestrul 1\Limbaje Formale si Automate\VisualStudio\Automat Push Down\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\Facultate\Anul 3\Semestrul 1\Limbaje Formale si Automate\VisualStudio\Automat Push Down\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\Facultate\Anul 3\Semestrul 1\Limbaje Formale si Automate\VisualStudio\Automat Push Down\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\Facultate\Anul 3\Semestrul 1\Limbaje Formale si Automate\VisualStudio\Automat Push Down\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\Facultate\Anul 3\Semestrul 1\Limbaje Formale si Automate\VisualStudio\Automat Push Down\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\Facultate\Anul 3\Semestrul 1\Limbaje Formale si Automate\VisualStudio\Automat Push Down\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\Facultate\Anul 3\Semestrul 1\Limbaje Formale si Automate\VisualStudio\Automat Push Down\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Facultate\Anul 3\Semestrul 1\Limbaje Formale si Automate\VisualStudio\Automat Push Down\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache

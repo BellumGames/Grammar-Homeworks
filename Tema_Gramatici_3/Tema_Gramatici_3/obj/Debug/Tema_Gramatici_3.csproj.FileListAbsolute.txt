@@ -1,0 +1,22 @@
+C:\Users\bucur\Desktop\Automat Push Down\Automat Push Down\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\bucur\Desktop\Automat Push Down\Automat Push Down\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\bucur\Desktop\Automat Push Down\Automat Push Down\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\bucur\Desktop\Automat Push Down\Automat Push Down\obj\Debug\Tema_Gramatici_3.csproj.AssemblyReference.cache
+C:\Users\bucur\Desktop\Automat Push Down\Automat Push Down\obj\Debug\WindowsFormsApplication1.Gramatica.resources
+C:\Users\bucur\Desktop\Automat Push Down\Automat Push Down\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\bucur\Desktop\Automat Push Down\Automat Push Down\obj\Debug\Tema_Gramatici_3.csproj.GenerateResource.cache
+C:\Users\bucur\Desktop\Automat Push Down\Automat Push Down\obj\Debug\Tema_Gramatici_3.csproj.CoreCompileInputs.cache
+C:\Users\bucur\Desktop\Automat Push Down\Automat Push Down\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\bucur\Desktop\Automat Push Down\Automat Push Down\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\bucur\Desktop\Automat Push Down\Automat Push Down\obj\Debug\WindowsFormsApplication1.Tables.resources
+C:\Users\bucur\Desktop\Automat Push Down\Tema_Gramatici_3\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\bucur\Desktop\Automat Push Down\Tema_Gramatici_3\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\bucur\Desktop\Automat Push Down\Tema_Gramatici_3\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\bucur\Desktop\Automat Push Down\Tema_Gramatici_3\obj\Debug\Tema_Gramatici_3.csproj.AssemblyReference.cache
+C:\Users\bucur\Desktop\Automat Push Down\Tema_Gramatici_3\obj\Debug\WindowsFormsApplication1.Gramatica.resources
+C:\Users\bucur\Desktop\Automat Push Down\Tema_Gramatici_3\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\bucur\Desktop\Automat Push Down\Tema_Gramatici_3\obj\Debug\WindowsFormsApplication1.Tables.resources
+C:\Users\bucur\Desktop\Automat Push Down\Tema_Gramatici_3\obj\Debug\Tema_Gramatici_3.csproj.GenerateResource.cache
+C:\Users\bucur\Desktop\Automat Push Down\Tema_Gramatici_3\obj\Debug\Tema_Gramatici_3.csproj.CoreCompileInputs.cache
+C:\Users\bucur\Desktop\Automat Push Down\Tema_Gramatici_3\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\bucur\Desktop\Automat Push Down\Tema_Gramatici_3\obj\Debug\WindowsFormsApplication1.pdb

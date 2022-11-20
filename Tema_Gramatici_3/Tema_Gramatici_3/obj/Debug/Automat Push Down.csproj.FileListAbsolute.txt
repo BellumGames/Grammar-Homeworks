@@ -1,0 +1,21 @@
+D:\Facultate\Anul 3\Semestrul 1\Limbaje Formale si Automate\VisualStudio\Automat Push Down\Automat Push Down\bin\Debug\WindowsFormsApplication1.exe.config
+D:\Facultate\Anul 3\Semestrul 1\Limbaje Formale si Automate\VisualStudio\Automat Push Down\Automat Push Down\bin\Debug\WindowsFormsApplication1.exe
+D:\Facultate\Anul 3\Semestrul 1\Limbaje Formale si Automate\VisualStudio\Automat Push Down\Automat Push Down\bin\Debug\WindowsFormsApplication1.pdb
+D:\Facultate\Anul 3\Semestrul 1\Limbaje Formale si Automate\VisualStudio\Automat Push Down\Automat Push Down\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\Facultate\Anul 3\Semestrul 1\Limbaje Formale si Automate\VisualStudio\Automat Push Down\Automat Push Down\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Facultate\Anul 3\Semestrul 1\Limbaje Formale si Automate\VisualStudio\Automat Push Down\Automat Push Down\obj\Debug\Automat Push Down.csproj.GenerateResource.Cache
+D:\Facultate\Anul 3\Semestrul 1\Limbaje Formale si Automate\VisualStudio\Automat Push Down\Automat Push Down\obj\Debug\WindowsFormsApplication1.exe
+D:\Facultate\Anul 3\Semestrul 1\Limbaje Formale si Automate\VisualStudio\Automat Push Down\Automat Push Down\obj\Debug\WindowsFormsApplication1.pdb
+D:\Facultate\Anul 3\Semestrul 1\Limbaje Formale si Automate\VisualStudio\Automat Push Down\Automat Push Down\obj\Debug\Automat Push Down.csprojResolveAssemblyReference.cache
+D:\Facultate\Anul 3\Semestrul 1\Limbaje Formale si Automate\VisualStudio\Automat Push Down\Automat Push Down\obj\Debug\WindowsFormsApplication1.Tables.resources
+C:\Users\bucur\Desktop\Automat Push Down\Automat Push Down\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\bucur\Desktop\Automat Push Down\Automat Push Down\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\bucur\Desktop\Automat Push Down\Automat Push Down\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\bucur\Desktop\Automat Push Down\Automat Push Down\obj\Debug\Automat Push Down.csproj.AssemblyReference.cache
+C:\Users\bucur\Desktop\Automat Push Down\Automat Push Down\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\bucur\Desktop\Automat Push Down\Automat Push Down\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\bucur\Desktop\Automat Push Down\Automat Push Down\obj\Debug\WindowsFormsApplication1.Tables.resources
+C:\Users\bucur\Desktop\Automat Push Down\Automat Push Down\obj\Debug\Automat Push Down.csproj.GenerateResource.cache
+C:\Users\bucur\Desktop\Automat Push Down\Automat Push Down\obj\Debug\Automat Push Down.csproj.CoreCompileInputs.cache
+C:\Users\bucur\Desktop\Automat Push Down\Automat Push Down\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\bucur\Desktop\Automat Push Down\Automat Push Down\obj\Debug\WindowsFormsApplication1.pdb
